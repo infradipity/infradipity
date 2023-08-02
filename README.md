@@ -1,7 +1,7 @@
-Hi, This is @infradipity
-I'm working on combining infrastructure/cloud management and generative AI in a serendipitous way
-I’m currently learning too much, too fast.
-I’m looking to collaborate on leveraging LLMs to build/manage infrastructure
+Hi, This is @infradipity.
+I'm working on combining infrastructure/cloud management and generative AI in a serendipitous way.
+I’m currently thinking about product and strategy to inform future work and experiments.
+I’m looking to collaborate on leveraging LLMs to build/manage infrastructure.
 
 
 <!---
